@@ -12,7 +12,7 @@ import React from "react";
 
 const Footer = () => {
   const socialLinks = [
-    { icon: Github, href: "https://github.com/rabeaelzayat", label: "GitHub" },
+    { icon: Github, href: "https://github.com/rabea-shaban", label: "GitHub" },
     {
       icon: Linkedin,
       href: "https://linkedin.com/in/rabea-sh-elzayat",
@@ -23,7 +23,7 @@ const Footer = () => {
       href: "https://instagram.com/rabea_sh_elzayat",
       label: "Instagram",
     },
-    { icon: Mail, href: "mailto:engrabeashaban@gmail.com", label: "Email" },
+    { icon: Mail, href: "mailto:rabea-elzayate@gmail.com", label: "Email" },
     { icon: Phone, href: "https://wa.me/201156807072", label: "WhatsApp" },
     { icon: Globe, href: "https://rabeashaban.site", label: "Website" },
     {
@@ -47,7 +47,7 @@ const Footer = () => {
               Rabea Shaban
             </span>
             <p className="mt-4 text-muted-foreground">
-              Full Stack Developer skilled in React.js, TypeScript, .NET Core,
+              Full Stack Developer skilled in React.js, TypeScript, .NET Core,Mern,
               WordPress, and Strapi. I build modern, responsive websites and
               scalable web apps with clean code, strong UI/UX, and smooth API
               integration. Always learning, always building.
